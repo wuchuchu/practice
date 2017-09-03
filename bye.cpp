@@ -3,6 +3,7 @@ using namespace std;
 
 void byebye()
 {
-	cout<<"bye bye~"<<endl;
-	cout<<"hehe"<<endl;
+        cout<<"bye ni mei"<<endl;
+        cout<<"hehe"<<endl;
+
 }
