@@ -3,5 +3,5 @@ using namespace std;
 
 void byebye()
 {
-	cout<<"bye~"<<endl;
+	cout<<"bye ni mei"<<endl;
 }
